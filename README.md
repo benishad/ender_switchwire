@@ -3,8 +3,8 @@
  
  - [구성품](#구성품)
  - [제작사진](#제작사진)
- - [테스트1 - 큐브](#테스트_1)
- - [테스트2 - 이브이](#테스트_2)
+   - [테스트1 - 큐브](#테스트_1)
+   - [테스트2 - 이브이](#테스트_2)
  - [듀얼팬 에프터버너로 변경](#듀얼팬_구성으로_변경)
 
 ---
@@ -51,7 +51,7 @@
 
 ---
 
-### 듀얼팬_구성으로_변경
+## 듀얼팬_구성으로_변경
 
 <img src="https://user-images.githubusercontent.com/50231941/222458131-2fba01d6-7e74-4fdd-ab97-871cbbb94401.jpg" width="600" height="600"/>
 <img src="https://user-images.githubusercontent.com/50231941/222458204-1865c41c-665b-47f1-a7ad-fcaa1da2dbfd.jpg" width="600" height="600"/>

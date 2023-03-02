@@ -1,5 +1,11 @@
 # ender_switchwire
  엔더3로 만드는 스위치와이어
+ 
+ - [구성품](#구성)
+ - [제작사진](#제작사진)
+ - [테스트1 - 큐브](#테스트1)
+ - [테스트2 - 이브이](#테스트2)
+ - [듀얼팬 터버너](#듀얼팬 구성으로 변경)
 
 ---
 
@@ -15,7 +21,7 @@
 
 ---
 
-## 사진
+## 제작사진
 
 <img src="https://user-images.githubusercontent.com/50231941/222456109-b3d4c9e9-abc3-4c82-bb90-3e2d25b0b81d.jpg" width="600" height="600"/>
 <img src="https://user-images.githubusercontent.com/50231941/222456894-c3f59b71-409a-402e-955a-b1223dbd5007.jpg" width="600" height="600"/>
@@ -44,6 +50,8 @@
 <img src="https://user-images.githubusercontent.com/50231941/222457916-a39a10dc-654c-4fde-a836-074b05b630ba.jpg" width="600" height="600"/>
 
 ---
+
+### 듀얼팬 구성으로 변경
 
 <img src="https://user-images.githubusercontent.com/50231941/222458131-2fba01d6-7e74-4fdd-ab97-871cbbb94401.jpg" width="600" height="600"/>
 <img src="https://user-images.githubusercontent.com/50231941/222458204-1865c41c-665b-47f1-a7ad-fcaa1da2dbfd.jpg" width="600" height="600"/>
